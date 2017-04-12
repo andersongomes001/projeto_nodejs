@@ -9,7 +9,10 @@
   "author": "anderson",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.17.1",
+    "consign": "^0.1.4",
     "ejs": "^2.5.6",
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "mysql": "^2.13.0"
   }
 }
